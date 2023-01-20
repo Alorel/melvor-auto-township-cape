@@ -1,0 +1,5 @@
+{
+  "namespace": "AutoTownshipCape",
+  "setup": "setup.mjs",
+  "icon": "https://raw.githubusercontent.com/Alorel/melvor-auto-township-cape/1.0.0/logo.png"
+}

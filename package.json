@@ -1,0 +1,22 @@
+{
+  "name": "@alorel/melvor-auto-township-cape",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/setup.mjs",
+  "scripts": {
+    "zip": "node build/zip.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alorel/melvor-auto-township-cape.git"
+  },
+  "author": "Alorel <amolc@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alorel/melvor-auto-township-cape/issues"
+  },
+  "homepage": "https://github.com/Alorel/melvor-auto-township-cape",
+  "devDependencies": {
+    "jszip": "^3.10.1"
+  }
+}
